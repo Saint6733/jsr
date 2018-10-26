@@ -2,7 +2,7 @@ SOAP with Attachments API for Java? (SAAJ) 1.3
 
 JavaTM Portlet Specification 
 
-Java APIs for WSDL(JWSDL) 
+Java APIs for WSDL(JWSDL) fdfd
 
 Java Transaction Service (JTS)
 
